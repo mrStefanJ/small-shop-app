@@ -1,10 +1,10 @@
 # Project Shop App
 
-This project is build with React and SCSS.
+You will see how to add and delete product
 
 ## Installation
 
-Before you start project, 
+Before you start project, run
 
 ```bash
 npm install
@@ -12,5 +12,5 @@ npm install
 
 ## Technology
 
-[React](https://reactjs.org/docs/create-a-new-react-app.html)
-[SASS](https://sass-lang.com/)
+- [React](https://reactjs.org/docs/create-a-new-react-app.html)
+- [SASS](https://sass-lang.com/)
