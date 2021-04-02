@@ -1,0 +1,30 @@
+header{
+    position: relative;
+    background-color:#3f87a6!important;
+    
+    .title {
+        a{
+            font-size: 34px;
+            text-decoration: none;
+            color: $black;
+            font-weight: 600;
+        }
+    }
+    
+    .nav{
+        a{
+            font-size: 20px;
+            color: $black;
+    
+            &:hover{
+                color: $white;
+            }
+        }
+        .btn-badge{
+            position: absolute;
+            top: 12px;
+            right: 70px;
+            width: 20px;
+        }
+    }
+}
